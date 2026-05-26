@@ -162,16 +162,6 @@ Passionate about backend, cloud architectures and scalable solutions
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/DubanSalas/DubanSalas/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -184,6 +174,16 @@ Passionate about backend, cloud architectures and scalable solutions
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/DubanSalas/DubanSalas/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
