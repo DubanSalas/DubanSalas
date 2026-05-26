@@ -162,6 +162,16 @@ Passionate about backend, cloud architectures and scalable solutions
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/DubanSalas/DubanSalas/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
